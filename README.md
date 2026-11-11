@@ -32,7 +32,7 @@ arr3d = np.array([[[1, 2, 3], [4, 5, 6]], [[7, 8, 9], [10, 11, 12]], [[13, 14, 1
 print("3D Array:\n", arr3d)
 ```
 
-- In your lab10a.py file write code to show two different ways of creating a NumPy array that has integer values from 20 to 49 (including both as well). Save them in two different variables: array1 and array2.
+- In your lab7a.py file write code to show two different ways of creating a NumPy array that has integer values from 20 to 49 (including both as well). Save them in two different variables: array1 and array2.
 - Write code that will create a 3x3 matrix and should have values 1 to 9 arranged in 3 rows and three columns. Save it in variable: array3.
 - Write code to create a 3D matrix of shape 2x3x2 and initialize with month names. Save it in variable: array4.
 - Run your script using the command: python ./lab7a.py.
